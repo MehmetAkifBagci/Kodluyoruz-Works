@@ -1,3 +1,3 @@
 # Kodluyoruz-Works
-KodluyoruzEducationThings
+# KodluyoruzEducationThings
 Kodluyoruz eğitimleri kapsamında yaptığım çalışmalar.
